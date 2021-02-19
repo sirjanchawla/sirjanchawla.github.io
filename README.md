@@ -5,7 +5,7 @@ Made by: sirjan chawla
 
 The game works like the infamous "flappy bird". 
 The sound effects used in the game are the same
-THe game was made with Vanilla Js, Css and Html
+The game was made with Vanilla Js, Css and Html
 
 
 
